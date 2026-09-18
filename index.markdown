@@ -1,7 +1,7 @@
 # Kathryn Coutts Resume
 [Visit me on LinkedIn](https://www.linkedin.com/in/kathryn-coutts-700370436/)
 ## About Me
-I am a Graphic Design student at Humber Polytechnic. 
+I am a **Graphic Design** student at Humber Polytechnic. 
 
 ## Employment 
 ### BonApatreat Bakery
@@ -20,6 +20,7 @@ I am a Graphic Design student at Humber Polytechnic.
 - Followed food safety standards while prepping seafood
   
 ## Projects 
+*my projects were made in school*
 ![Care for Cats Charity T-Shirt Design](DESN153-Assignment2-KathrynCoutts_Low Polygon T-Shirt Design.jpg)
 
 ## Contact Me
