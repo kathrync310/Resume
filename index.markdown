@@ -10,7 +10,7 @@ I am a **Graphic Design** student at Humber Polytechnic.
 - served customers and took phone orders
 
 ### Pet Valu
-- Completed all transaction types using Moneris system
+- Completed all transaction types using *Moneris* system
 - Assisted and connected with customers
 - Helped with weekly truck shifts 
 
@@ -20,7 +20,6 @@ I am a **Graphic Design** student at Humber Polytechnic.
 - Followed food safety standards while prepping seafood
   
 ## Projects 
-*my projects were made in school*
 ![Care for Cats Charity T-Shirt Design](DESN153-Assignment2-KathrynCoutts_Low Polygon T-Shirt Design.jpg)
 
 ## Contact Me
