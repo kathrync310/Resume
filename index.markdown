@@ -1,4 +1,4 @@
-# Kathryn Coutts Resume
+# Kathryn Coutts
 [Visit me on LinkedIn](https://www.linkedin.com/in/kathryn-coutts-700370436/)
 ## About Me
 I am a **Graphic Design** student at Humber Polytechnic. 
