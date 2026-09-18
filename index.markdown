@@ -5,11 +5,16 @@ I am a Graphic Design student at Humber Polytechnic.
 
 ## Employment 
 ### Bakery
-baked the good goodies
+- baked the **good** goodies
+- baked for the homies
+- cleaned da kitchen
+
 ### Cat Store
-pet cats for a living
+pet cats for a *living*
+
 ### Grocery Store (Expensive)
 make sushi
+
 ### Media Place 
 looked a camera
 
