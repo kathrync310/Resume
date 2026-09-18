@@ -18,14 +18,11 @@ I am a Graphic Design student at Humber Polytechnic.
 - Served customers and provided reccomendations
 - Stocked, faced and rotated stock
 - Followed food safety standards while prepping seafood
-
-### Media Place 
-looked a camera
-
+  
 ## Projects 
 ![Care for Cats Charity T-Shirt Design](DESN153-Assignment2-KathrynCoutts_Low Polygon T-Shirt Design.jpg)
+
 ## Contact Me
-need to reach out to hire me?? here is my info. 
 ### katc@gmail.com
 ### 157-925-3699
 
